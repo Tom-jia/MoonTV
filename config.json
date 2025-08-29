@@ -12,7 +12,7 @@
       "detail": "https://heimuer.tv"
     },
     "ruyi": {
-      "api": "http://cj.rycjapi.com/api.php/provide/vod",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
     "bfzy": {
@@ -84,6 +84,23 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "4kzy": {
+      "api": "https://4kzyapi.com/api.php/provide/vod",
+      "name": "4K资源",
+      "detail": "https://4kzy.com"
+    },
+    "uhdzy": {
+      "api": "https://uhdzyapi.com/api.php/provide/vod",
+      "name": "超高清资源"
+    },
+    "gaoqing": {
+      "api": "https://gaoqingzy.com/api.php/provide/vod",
+      "name": "高清资源库"
+    },
+    "yuanhua": {
+      "api": "https://yuanhuazy.com/api.php/provide/vod",
+      "name": "原画资源"
     }
   }
 }
